@@ -18,7 +18,6 @@ Il Comitato Olimpico per le Olimpiadi Italiane di Informatica risulta così comp
 * **Giorgio Audrito - Responsabile Tecnico Scientifico** (Ricercatore, Università di Torino)
 * **Antonio Piva - AICA** (Presidente AICA)
 * **Amanda Ferrario** (Dirigente Scolastico, ITE E. Tosi di Busto Arsizio)
-* **Imerio Chiappa** (Dirigente Scolastico, ITI Paleocapa di Bergamo)
 * **Nicoletta Negrello** (Docente, ISIS Malignani di Udine)
 * **Roberto Grossi** (Professore Ordinario, Università di Pisa)
 
@@ -132,7 +131,7 @@ Oltre a presidiare tutte le fasi della selezione territoriale, i referenti terri
 * sede territoriale **MOL** - prov: CB-IS - **LS A. Romita di Campobasso** - Ref. Roberto Valente
 * sede territoriale **PIE1** - prov: TO – **ITT Pininfarina di Moncalieri (TO)** - Ref. Rocco Catalano
 * sede territoriale **PIE2** - prov: BI-NO-VB-VC - **ITI Q. Sella di Biella** - Ref. Mattia Marcolin
-* sede territoriale **PIE3** - prov: AL-AT-CN - **IIS G. Vallauri di Fossano (CN)** - Ref. Alessandro Sanino
+* sede territoriale **PIE3** - prov: AL-AT-CN - **IIS G. Vallauri di Fossano (CN)** - Ref. Manuela Marchisio
 * sede territoriale **PUG1** - prov: BA tranne Corato-Molfetta-Ruvo di Puglia-Terlizzi  – **ITI Marconi di Bari** - Ref. Nicola Vacca
 * sede territoriale **PUG2** - prov: BR-TA - **IISS Majorana di Brindisi** - Ref. Pietro Mazzotta
 * sede territoriale **PUG3** - BT-FG e Corato-Molfetta-Ruvo di Puglia-Terlizzi – **IISS Ferraris di Molfetta (BA)** - Ref. Mario Quarto
